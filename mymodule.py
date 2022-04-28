@@ -1,2 +1,2 @@
 def myfunction(event, context):
-    return "version 1"
+    return "version 2"
